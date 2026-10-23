@@ -1,0 +1,7 @@
+{
+"Records": [
+    {
+       "body": "The API Call to the third party Application for Billing has failed. Error:{error}. The bucket: 'dct-billing-298436524774-us-east-1-an' , The File: 'billing_data_meat_may_2023.csv'"
+        }
+    ]
+}

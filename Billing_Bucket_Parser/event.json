@@ -1,0 +1,15 @@
+
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "dct-billing-298436524774-us-east-1-an"
+        },
+        "object": {
+          "key": "billing_data_meat_may_2023.csv"
+        }
+      }
+    }
+  ]
+}
